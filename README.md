@@ -174,6 +174,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [CD Calculator](https://nutilz.com/cd-calculator) | Calculate certificate of deposit interest and maturity value. Free, no sign-up. |
 | [Temp Mail](https://temp-mail.org) | Instant disposable email address. No sign-up needed. |
 | [PDF24](https://tools.pdf24.org) | 25+ PDF tools — compress, merge, split, convert, sign — all free. |
 | [WeTransfer Free](https://wetransfer.com) | Send files up to 2GB to anyone for free. No account needed. |
