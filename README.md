@@ -174,6 +174,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [Concrete Estimator Hub](https://concreteestimatorhub.com) | Free concrete slab, footing, bag count, ready-mix comparison, and post-hole calculators for project planning. |
 | [Temp Mail](https://temp-mail.org) | Instant disposable email address. No sign-up needed. |
 | [PDF24](https://tools.pdf24.org) | 25+ PDF tools — compress, merge, split, convert, sign — all free. |
 | [WeTransfer Free](https://wetransfer.com) | Send files up to 2GB to anyone for free. No account needed. |
