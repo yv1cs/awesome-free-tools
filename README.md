@@ -63,6 +63,7 @@
 | [Photopea](https://photopea.com) | Full Photoshop clone in your browser. Opens PSD, AI, XD files. No install needed. |
 | [Remove.bg](https://remove.bg) | Remove image backgrounds in seconds with one click. |
 | [Cleanup.pictures](https://cleanup.pictures) | Remove objects, people, watermarks from photos using AI. |
+| [Free Image Merger](https://freeimagemerger.com) | Merge images side by side, stacked, in a grid, or freestyle in your browser with no upload. |
 | [Squoosh](https://squoosh.app) | Google's image compression tool. Runs locally in browser, no upload. |
 | [Vectorizer.ai](https://vectorizer.ai) | Convert PNG/JPG to perfect vector SVG instantly. |
 
