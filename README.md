@@ -121,6 +121,8 @@
 | [Figma Free](https://figma.com) | Industry-standard UI design tool. Free for up to 3 projects. |
 | [SVGRepo](https://svgrepo.com) | 500,000+ free SVG icons and illustrations. |
 | [Haikei](https://haikei.app) | Generate custom SVG backgrounds, waves, blobs, gradients. |
+| [Codex Theme Builder](https://codextheme.tools) | Browser theme builder for OpenAI Codex with live preview and CSS token export. |
+| [Image to Crochet Pattern](https://imagetocrochetpattern.com) | Convert any image into a crochet pattern in the browser. |
 
 ---
 
@@ -178,6 +180,11 @@
 | [PDF24](https://tools.pdf24.org) | 25+ PDF tools — compress, merge, split, convert, sign — all free. |
 | [WeTransfer Free](https://wetransfer.com) | Send files up to 2GB to anyone for free. No account needed. |
 | [Smallpdf](https://smallpdf.com) | Compress, convert, and edit PDFs. Free with daily limits. |
+| [WattsCalc](https://wattscalc.com) | Free wattage and electricity cost calculator for appliances and devices. |
+| [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) | Lawn mowing cost estimates by area, rate, and extras. |
+| [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) | Embroidery job pricing from stitches, fabric, and labor. |
+| [Pressure Washer Fix](https://pressurewasherfix.com) | Troubleshooting guides for common pressure washer problems. |
+| [SkyCOTL Tools](https://skycotl.tools) | Free guides and calculators for Sky: Children of the Light. |
 
 ---
 
