@@ -174,6 +174,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [FileOnTap](https://fileontap.com/) | Free browser-local File Converter for HEIC/WebP/PNG/JPG and image↔PDF — no upload, no account. |
 | [Temp Mail](https://temp-mail.org) | Instant disposable email address. No sign-up needed. |
 | [PDF24](https://tools.pdf24.org) | 25+ PDF tools — compress, merge, split, convert, sign — all free. |
 | [WeTransfer Free](https://wetransfer.com) | Send files up to 2GB to anyone for free. No account needed. |
