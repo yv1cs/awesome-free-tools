@@ -174,10 +174,11 @@
 
 | Tool | Description |
 |------|-------------|
-| [Temp Mail](https://temp-mail.org) | Instant disposable email address. No sign-up needed. |
 | [PDF24](https://tools.pdf24.org) | 25+ PDF tools — compress, merge, split, convert, sign — all free. |
-| [WeTransfer Free](https://wetransfer.com) | Send files up to 2GB to anyone for free. No account needed. |
+| [QuietTake Noise Remover](https://noiseremover.site/) | Free browser-local RNNoise speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; no signup or audio upload, limited to 50 MB and five minutes per file. |
 | [Smallpdf](https://smallpdf.com) | Compress, convert, and edit PDFs. Free with daily limits. |
+| [Temp Mail](https://temp-mail.org) | Instant disposable email address. No sign-up needed. |
+| [WeTransfer Free](https://wetransfer.com) | Send files up to 2GB to anyone for free. No account needed. |
 
 ---
 
