@@ -176,6 +176,7 @@
 |------|-------------|
 | [Temp Mail](https://temp-mail.org) | Instant disposable email address. No sign-up needed. |
 | [PDF24](https://tools.pdf24.org) | 25+ PDF tools — compress, merge, split, convert, sign — all free. |
+| [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) | Free U.S. roof replacement cost calculator with planning ranges by size, material, tear-off, and location. No account required. |
 | [WeTransfer Free](https://wetransfer.com) | Send files up to 2GB to anyone for free. No account needed. |
 | [Smallpdf](https://smallpdf.com) | Compress, convert, and edit PDFs. Free with daily limits. |
 
