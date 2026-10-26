@@ -61,6 +61,8 @@
 | Tool | Description |
 |------|-------------|
 | [Photopea](https://photopea.com) | Full Photoshop clone in your browser. Opens PSD, AI, XD files. No install needed. |
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with prompt library; freemium signup credits, no card. |
+| [TeslaWraps](https://teslawraps.design) | Free browser Tesla Paint Shop wrap editor; core editing + PNG export free, no account. |
 | [Remove.bg](https://remove.bg) | Remove image backgrounds in seconds with one click. |
 | [Cleanup.pictures](https://cleanup.pictures) | Remove objects, people, watermarks from photos using AI. |
 | [Squoosh](https://squoosh.app) | Google's image compression tool. Runs locally in browser, no upload. |
