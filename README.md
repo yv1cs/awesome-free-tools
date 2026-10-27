@@ -60,6 +60,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [ImgFlow](https://imgflow.taoliapp.com/en/) | Free in-browser image compressor/converter (HEIC, WebP, AVIF, target-size). Runs locally via WASM — nothing uploaded. |
 | [Photopea](https://photopea.com) | Full Photoshop clone in your browser. Opens PSD, AI, XD files. No install needed. |
 | [Remove.bg](https://remove.bg) | Remove image backgrounds in seconds with one click. |
 | [Cleanup.pictures](https://cleanup.pictures) | Remove objects, people, watermarks from photos using AI. |
