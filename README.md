@@ -207,6 +207,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [China Travel Check](https://gochina.taoliapp.com/) | Verified English field manual for independent mainland China travel: payments, eSIM, visas, trains, apps. |
 | [Google Flights](https://google.com/flights) | Best flight search engine. Price calendar shows cheapest days. |
 | [Skyscanner](https://skyscanner.com) | Compares prices across 1,200+ airlines. No booking fees. |
 | [Seat61](https://seat61.com) | The world's best guide to train and ferry travel everywhere. |
