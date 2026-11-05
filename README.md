@@ -65,6 +65,7 @@
 | [Cleanup.pictures](https://cleanup.pictures) | Remove objects, people, watermarks from photos using AI. |
 | [Squoosh](https://squoosh.app) | Google's image compression tool. Runs locally in browser, no upload. |
 | [Vectorizer.ai](https://vectorizer.ai) | Convert PNG/JPG to perfect vector SVG instantly. |
+| [My Nine Games](https://myninegames.com/) | Free browser maker for a 3×3 “my 9 games” collage — pick covers, add notes, download a PNG. |
 
 ---
 
